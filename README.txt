@@ -1,0 +1,1 @@
+I added the social media icon on the home page, changed the traget to new tab on social media footer of about.html and added slack link to it, Added git hub and hacktober link on event.py, added icon the title of home, about, event., and some other things.
